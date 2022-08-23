@@ -25,7 +25,7 @@
     </a>
 </p>
 <p>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ware255&hide=php,html,shell&show_icons=true&locale=en&layout=compact" alt="ware255"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ware255&hide=php,html,shell&show_icons=true&locale=ja&layout=compact&show_icons=true&theme=radical" alt="ware255"/>
 </p>
 <p>
     <img src="https://github-readme-stats.vercel.app/api?username=ware255&show_icons=true&theme=radical" alt="ware255"/>
